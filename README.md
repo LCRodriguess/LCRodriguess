@@ -35,12 +35,3 @@ src="https://img.shields.io/twitter/follow/Leonardo_Rodri_?logo=twitter&style=fo
 
 <a href="https://github.com/LCRodriguess" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCRodriguess&langs_count=10&title_color=ffffff&text_color=ec4899&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/YouAre"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/Test"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
