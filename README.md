@@ -22,6 +22,11 @@ src="https://img.shields.io/twitter/follow/Leonardo_Rodri_?logo=twitter&style=fo
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
+### Studing
+
+<p align="left">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ### Socials
 
@@ -34,4 +39,3 @@ src="https://img.shields.io/twitter/follow/Leonardo_Rodri_?logo=twitter&style=fo
 <a href="http://www.github.com/LCRodriguess"><img src="https://github-readme-stats.vercel.app/api?username=LCRodriguess&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ec4899&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="LCRodriguess's GitHub stats" /></a>
 
 <a href="https://github.com/LCRodriguess" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCRodriguess&langs_count=10&title_color=ffffff&text_color=ec4899&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
