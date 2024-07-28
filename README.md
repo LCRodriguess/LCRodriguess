@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leonardo Rodrigues
 ==========================================================================================================================================
 
-Python Developer and Java
+Python Developer
 -------------------------
 
 I am a young software developer and a student of software engineering, 18 years old, passionate about exploring the programming world. Currently, I am focused on enhancing my skills in Python, where I have intermediate knowledge, while delving deeper into the study of Java, particularly in object-oriented programming. Additionally, I possess basic design skills, allowing me to create simple and functional interfaces for my applications. I am enrolled in a software engineering program at college and also attending a Java Object-Oriented Programming course at the Aeronautics Institute of Technology, constantly seeking to expand my knowledge and skills in the field of technology.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [leo.rodrigues.contato0@gmail.com](mailto:leo.rodrigues.contato0@gmail.com)
-* 🧠  I'm learning Python and Java
+* 🧠  I'm learning Python
 
 <a href="https://www.github.com/LCRodriguess" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LCRodriguess?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a><a href="https://www.x.com/Leonardo_Rodri_" target="_blank" rel="noreferrer"><img
