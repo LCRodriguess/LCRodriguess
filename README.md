@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=8A2BE2,00BFFF&height=220&section=header&text=Leonardo%20Rodrigues%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=400&color=ff0051&text=Leonardo%20Rodrigues&section=footer&reversal=false&textBg=false&rotate=0&descAlignY=50&fontColor=FFFF&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
