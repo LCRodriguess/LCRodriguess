@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=400&color=ff0051&text=Leonardo%20Rodrigues&section=footer&reversal=false&textBg=false&rotate=0&descAlignY=50&fontColor=FFFF&animation=fadeIn" alt="Header" />
+  <h1 align="center">Leonardo Rodrigues</h1>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
       <br>
       <h3 align="center">📊 Estatísticas</h3>
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcrodriguess&theme=dark&hide_border=true&background=0D1117&fire=8A2BE2&ring=00BFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lcrodriguess&theme=auto&hide_border=true&background=0D1117&fire=8A2BE2&ring=00BFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
       </p>
     </td>
   </tr>
