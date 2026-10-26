@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="620" viewBox="0 0 1180 620" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Leonardo Rodrigues — profile.sh --live">
+  <defs>
+    <!-- Gradiente da Borda Neon Animada -->
+    <linearGradient id="neonBorder" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#818CF8;#C084FC;#22D3EE" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#818CF8">
+        <animate attributeName="stop-color" values="#818CF8;#C084FC;#22D3EE;#818CF8" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#C084FC">
+        <animate attributeName="stop-color" values="#C084FC;#22D3EE;#818CF8;#C084FC" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Fundo Escuro do Terminal -->
+    <linearGradient id="termBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#070B16"/>
+      <stop offset="100%" stop-color="#0B1222"/>
+    </linearGradient>
+
+    <!-- Linhas de Varredura / Scanline -->
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="rgba(34, 211, 238, 0.08)" stroke-width="1.2" />
+    </pattern>
+
+    <!-- Glow Neon -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Janela Principal com Borda Neon -->
+  <rect x="2" y="2" width="1176" height="616" rx="16" fill="url(#termBg)" stroke="url(#neonBorder)" stroke-width="2" />
+
+  <!-- Barra Superior do macOS -->
+  <path d="M 2 18 Q 2 2 18 2 L 1162 2 Q 1178 2 1178 18 L 1178 46 L 2 46 Z" fill="#0B1222" />
+  <line x1="2" y1="46" x2="1178" y2="46" stroke="rgba(255,255,255,0.1)" stroke-width="1" />
+
+  <!-- Botões Janela (Vermelho, Amarelo, Verde) -->
+  <circle cx="28" cy="24" r="6" fill="#ff5f56" />
+  <circle cx="48" cy="24" r="6" fill="#ffbd2e" />
+  <circle cx="68" cy="24" r="6" fill="#27c93f" />
+
+  <!-- Título do Terminal -->
+  <text x="590" y="28" text-anchor="middle" font-size="12" fill="#94A3B8" letter-spacing="0.5">leo.rodrigues.contato0@gmail.com - % ./profile.sh --live</text>
+
+  <!-- ==================== COLUNA ESQUERDA: VISUAL.MAP ==================== -->
+  <text x="40" y="78" font-size="10" letter-spacing="3" fill="#94A3B8">VISUAL.MAP</text>
+
+  <!-- Moldura Cyber com Cantoneiras -->
+  <rect x="40" y="90" width="380" height="490" rx="8" fill="#080D1A" stroke="rgba(34, 211, 238, 0.3)" stroke-width="1.5" />
+  <rect x="40" y="90" width="380" height="490" fill="url(#scanlines)" />
+
+  <!-- Cantoneiras de Foco Cyberpunk -->
+  <path d="M 40 110 L 40 90 L 60 90" fill="none" stroke="#22D3EE" stroke-width="2.5" filter="url(#glow)"/>
+  <path d="M 400 90 L 420 90 L 420 110" fill="none" stroke="#22D3EE" stroke-width="2.5" filter="url(#glow)"/>
+  <path d="M 40 560 L 40 580 L 60 580" fill="none" stroke="#22D3EE" stroke-width="2.5" filter="url(#glow)"/>
+  <path d="M 400 580 L 420 580 L 420 560" fill="none" stroke="#22D3EE" stroke-width="2.5" filter="url(#glow)"/>
+
+  <!-- Radar / Laser de Varredura Animado -->
+  <line x1="40" y1="90" x2="420" y2="90" stroke="#C084FC" stroke-width="2" opacity="0.75" filter="url(#glow)">
+    <animate attributeName="y1" values="90;570;90" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="y2" values="90;570;90" dur="4s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Ilustração Holográfica Cyber do Dev (com óculos) -->
+  <g transform="translate(140, 200)" stroke="#A78BFA" fill="none" stroke-width="1.6" opacity="0.85">
+    <!-- Cabeça e Cabelo -->
+    <path d="M 60 30 Q 90 10 120 30 Q 140 60 135 100 Q 90 150 45 100 Q 40 60 60 30 Z" stroke="#22D3EE"/>
+    <path d="M 55 35 Q 90 20 125 35" stroke="#C084FC" stroke-width="3"/>
+    <!-- Óculos Cyber -->
+    <rect x="62" y="65" width="24" height="15" rx="3" stroke="#22D3EE" fill="rgba(34, 211, 238, 0.25)"/>
+    <rect x="94" y="65" width="24" height="15" rx="3" stroke="#22D3EE" fill="rgba(34, 211, 238, 0.25)"/>
+    <line x1="86" y1="72" x2="94" y2="72" stroke="#22D3EE"/>
+    <!-- Ombros e Crachá -->
+    <path d="M 20 160 Q 90 130 160 160 L 175 240 L 5 240 Z" stroke="#818CF8"/>
+    <rect x="80" y="165" width="20" height="30" rx="2" stroke="#10B981" fill="rgba(16, 185, 129, 0.2)"/>
+  </g>
+
+  <!-- Tags do Scanner -->
+  <text x="55" y="115" font-size="10" fill="#22D3EE" opacity="0.8">[ONLINE: SECURE]</text>
+  <text x="345" y="115" font-size="10" fill="#A78BFA" opacity="0.8">FPS: 60</text>
+  <text x="55" y="565" font-size="9" fill="#94A3B8">ID: LR-7749</text>
+  <text x="325" y="565" font-size="9" fill="#10B981">LATENCY: 14ms</text>
+
+
+  <!-- ==================== COLUNA DIREITA: SYSTEM.INFO ==================== -->
+  <text x="460" y="78" font-size="11" letter-spacing="2" fill="#94A3B8" font-weight="700">SYSTEM.INFO</text>
+  <circle cx="1120" cy="74" r="4" fill="#10B981">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite" />
+  </circle>
+  <text x="1132" y="78" font-size="10" fill="#10B981" font-weight="bold">LIVE</text>
+
+  <!-- Email Badge -->
+  <rect x="460" y="94" width="280" height="26" rx="6" fill="#7C3AED" opacity="0.9"/>
+  <text x="472" y="111" font-size="12" fill="#FFFFFF" font-weight="bold">leo.rodrigues.contato0@gmail.com</text>
+
+  <!-- Tabela Monospace de Informações -->
+  <g font-size="13" fill="#94A3B8">
+    <!-- Linha 1 -->
+    <text x="460" y="150" fill="#22D3EE">Subject</text>
+    <text x="545" y="150" fill="#64748B">.......................................</text>
+    <text x="730" y="150" fill="#FFFFFF" font-weight="bold">Leonardo Rodrigues</text>
+
+    <!-- Linha 2 -->
+    <text x="460" y="178" fill="#22D3EE">Role</text>
+    <text x="545" y="178" fill="#64748B">.......................................</text>
+    <text x="730" y="178" fill="#F8FAFC">Full-Stack Developer &amp; Software Engineer</text>
+
+    <!-- Linha 3 -->
+    <text x="460" y="206" fill="#22D3EE">Origin</text>
+    <text x="545" y="206" fill="#64748B">.......................................</text>
+    <text x="730" y="206" fill="#F8FAFC">Sapucaia do Sul - RS, Brasil</text>
+
+    <!-- Linha 4 -->
+    <text x="460" y="234" fill="#22D3EE">Education</text>
+    <text x="545" y="234" fill="#64748B">.......................................</text>
+    <text x="730" y="234" fill="#F8FAFC">Engenharia de Software (Graduando)</text>
+
+    <!-- Linha 5 -->
+    <text x="460" y="262" fill="#22D3EE">Status</text>
+    <text x="545" y="262" fill="#64748B">.......................................</text>
+    <text x="730" y="262" fill="#10B981" font-weight="bold">Building + Automating + Shipping</text>
+
+    <!-- Linha 6 -->
+    <text x="460" y="290" fill="#22D3EE">ToolChain</text>
+    <text x="545" y="290" fill="#64748B">.......................................</text>
+    <text x="730" y="290" fill="#F8FAFC">VS Code, Git, GitHub, Windows 11, Docker</text>
+
+    <!-- Linha 7 -->
+    <text x="460" y="318" fill="#818CF8">Core.Lang</text>
+    <text x="545" y="318" fill="#64748B">.......................................</text>
+    <text x="730" y="318" fill="#F8FAFC">JavaScript, TypeScript, Python, Java, SQL</text>
+
+    <!-- Linha 8 -->
+    <text x="460" y="346" fill="#818CF8">Core.Front</text>
+    <text x="545" y="346" fill="#64748B">.......................................</text>
+    <text x="730" y="346" fill="#F8FAFC">HTML5, CSS3, JavaScript, React</text>
+
+    <!-- Linha 9 -->
+    <text x="460" y="374" fill="#818CF8">Core.Back</text>
+    <text x="545" y="374" fill="#64748B">.......................................</text>
+    <text x="730" y="374" fill="#F8FAFC">Node.js, Express, Java, MongoDB, Flask</text>
+
+    <!-- Seção Contatos -->
+    <text x="460" y="415" fill="#C084FC" font-weight="bold">- Contact</text>
+
+    <text x="460" y="442" fill="#22D3EE">Grid.LinkedIn</text>
+    <text x="575" y="442" fill="#64748B">...............................</text>
+    <text x="730" y="442" fill="#38BDF8">in/leonardo-rodrigues-617a78298</text>
+
+    <text x="460" y="470" fill="#22D3EE">Grid.GitHub</text>
+    <text x="575" y="470" fill="#64748B">...............................</text>
+    <text x="730" y="470" fill="#38BDF8">@LCRodriguess</text>
+
+    <text x="460" y="498" fill="#22D3EE">Grid.Instagram</text>
+    <text x="575" y="498" fill="#64748B">...............................</text>
+    <text x="730" y="498" fill="#38BDF8">@leonard0_rodriguess</text>
+
+    <text x="460" y="526" fill="#22D3EE">Grid.Twitter/X</text>
+    <text x="575" y="526" fill="#64748B">...............................</text>
+    <text x="730" y="526" fill="#38BDF8">@Leonardo_Rodri_</text>
+  </g>
+
+  <!-- Rodapé do Terminal com Cursor Piscante -->
+  <text x="460" y="568" font-size="12" fill="#94A3B8">
+    &gt; Conectando pessoas e tecnologia através de software
+    <tspan fill="#22D3EE">_
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+    </tspan>
+  </text>
+</svg>
