@@ -14,7 +14,6 @@
         <p>
           🎓 Cursando <b>Engenharia de Software</b>.<br>
           📍 Localizado no <b>Brasil</b>.<br>
-          🎯 Focado em transformar ideias em aplicações <b>Full Stack</b> com interfaces limpas e uma ótima experiência para o usuário.
         </p>
       </blockquote>
       <br>
